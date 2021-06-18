@@ -1,6 +1,6 @@
 ###
 
-![Header](<https://github.com/VarentsovAndrey/VarentsovAndrey/blob/main/assets/image%20(1).png>)
+![Header](<https://github.com/VarentsovAndrey/VarentsovAndrey/blob/main/assets/image%20(2).png>)
 
 - 🔥 Хочу создавать красивые продукты
 - 🎯 Стремлюсь к работе с настоящими боевыми проектами
