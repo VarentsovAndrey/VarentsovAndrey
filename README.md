@@ -1,15 +1,20 @@
-## Привет всем, меня зовут Андрей :wave:
+### Hi there 👋
 
-About me
+![Header]()
 
-## Languages and tools
+- 🔥 Хочу создавать красивые продукты
+- 🎯 Стремлюсь к работе с настоящими боевыми проектами
+- 🔞 Хочу работать с опытными коллегами
+- 🏫 Освоить новые фреймворки
+- ✍🏻 Хочу писать чистый читабельный код
 
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
+### 🔨 Мой стек:
 
-## Follow Me
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)](https://t.me/VarentsovAndrey)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=47C5FB)](varentsov.andrey@gmail.com)
+</p>
