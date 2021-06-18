@@ -5,7 +5,7 @@ About me
 ## Languages and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS&logoColor=#1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
 
 ## Follow Me
