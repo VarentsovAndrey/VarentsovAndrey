@@ -11,9 +11,9 @@
 
 ### 🔨 Мой стек:
 
-<p>Visual Studio Code</p>
-<p>HTML</p>
-<p>CSS3</p>
-<p>JavaScript</p>
-<p>Git</p>
+- Visual Studio Code
+- HTML
+- CSS3
+- JavaScript
+- Git
 
