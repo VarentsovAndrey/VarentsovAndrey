@@ -9,6 +9,9 @@
 - HTML
 - CSS3
 - JavaScript
+- React
+- Redux
+- TypeScript
 - Git
 
 
